@@ -14,12 +14,3 @@
 ### 📬 Bana Ulaş:
 [![Discord](https://img.shields.io/badge/Discord-atl1337.-blue?style=for-the-badge&logo=discord)](https://discord.gg/)  
 [![GitHub](https://img.shields.io/badge/GitHub-atl1337-black?style=for-the-badge&logo=github)](https://github.com/atl1337)
-
----
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atl1337/atl1337/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atl1337/atl1337/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atl1337/atl1337/output/github-contribution-grid-snake.svg">
-</picture>
