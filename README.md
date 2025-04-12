@@ -1,5 +1,4 @@
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1M-blue)
-
+![](https://komarev.com/ghpvc/?username=atl1337&color=blue)
 
 <div align="center">
   <a href="https://github.com/atl1337">
