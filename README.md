@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=atl1337&label=Profile%20views&color=800080&style=flat" alt="atl1337" />
 </p>
 sikus
