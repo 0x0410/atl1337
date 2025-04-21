@@ -6,4 +6,4 @@
   </a>
 </div>
 
-[![Discord](https://img.shields.io/badge/Discord-atll.-blue?style=for-the-badge&logo=discord)]  
+![Discord](https://img.shields.io/badge/Discord-atll.-blue?style=for-the-badge&logo=discord)
