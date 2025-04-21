@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=atl1337&color=white)
+![](https://komarev.com/ghpvc/?username=atl1337&color=purple)
 
 <div align="center">
   <a href="https://github.com/atl1337">
